@@ -1,6 +1,10 @@
 # Clash Meta for Android 科学上网资源下载
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="ClashMetaforAndroid" src="https://github.com/user-attachments/assets/fc908d06-d8d2-41b1-9fd9-4206042dd1f9" />
+</div>
+<br>
 
 ## :memo: Clash Meta for Android 节点资源
 
